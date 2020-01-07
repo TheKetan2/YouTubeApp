@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/youtubeapp/static/css/main.9f64764d.chunk.css",
-    "main.js": "/youtubeapp/static/js/main.17c396ad.chunk.js",
-    "main.js.map": "/youtubeapp/static/js/main.17c396ad.chunk.js.map",
-    "runtime-main.js": "/youtubeapp/static/js/runtime-main.ab55fa8e.js",
-    "runtime-main.js.map": "/youtubeapp/static/js/runtime-main.ab55fa8e.js.map",
-    "static/js/2.24e023da.chunk.js": "/youtubeapp/static/js/2.24e023da.chunk.js",
-    "static/js/2.24e023da.chunk.js.map": "/youtubeapp/static/js/2.24e023da.chunk.js.map",
-    "index.html": "/youtubeapp/index.html",
-    "precache-manifest.4f8dc3b8197fbc9511b341ab77a57017.js": "/youtubeapp/precache-manifest.4f8dc3b8197fbc9511b341ab77a57017.js",
-    "service-worker.js": "/youtubeapp/service-worker.js",
-    "static/css/main.9f64764d.chunk.css.map": "/youtubeapp/static/css/main.9f64764d.chunk.css.map",
-    "static/js/2.24e023da.chunk.js.LICENSE": "/youtubeapp/static/js/2.24e023da.chunk.js.LICENSE"
+    "main.css": "/YouTubeApp/static/css/main.9f64764d.chunk.css",
+    "main.js": "/YouTubeApp/static/js/main.17c396ad.chunk.js",
+    "main.js.map": "/YouTubeApp/static/js/main.17c396ad.chunk.js.map",
+    "runtime-main.js": "/YouTubeApp/static/js/runtime-main.058bf828.js",
+    "runtime-main.js.map": "/YouTubeApp/static/js/runtime-main.058bf828.js.map",
+    "static/js/2.24e023da.chunk.js": "/YouTubeApp/static/js/2.24e023da.chunk.js",
+    "static/js/2.24e023da.chunk.js.map": "/YouTubeApp/static/js/2.24e023da.chunk.js.map",
+    "index.html": "/YouTubeApp/index.html",
+    "precache-manifest.c1cb06beed10d04ba5d5b1452e3a6780.js": "/YouTubeApp/precache-manifest.c1cb06beed10d04ba5d5b1452e3a6780.js",
+    "service-worker.js": "/YouTubeApp/service-worker.js",
+    "static/css/main.9f64764d.chunk.css.map": "/YouTubeApp/static/css/main.9f64764d.chunk.css.map",
+    "static/js/2.24e023da.chunk.js.LICENSE": "/YouTubeApp/static/js/2.24e023da.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab55fa8e.js",
+    "static/js/runtime-main.058bf828.js",
     "static/js/2.24e023da.chunk.js",
     "static/css/main.9f64764d.chunk.css",
     "static/js/main.17c396ad.chunk.js"
